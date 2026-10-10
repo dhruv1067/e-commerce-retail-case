@@ -14,10 +14,8 @@ flowchart LR
     B --> C[Azure Data Factory]
     C --> D[(PostgreSQL Data Warehouse)]
     D --> E[Power BI Dashboard]
-    D --> F[SQL KPI Analysis]
 ```
 
-> Adjust this flow if your final implementation differs from the planned Azure Data Factory → PostgreSQL integration.
 
 ## Tools & Technologies
 
