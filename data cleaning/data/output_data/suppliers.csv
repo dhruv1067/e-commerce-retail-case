@@ -1,0 +1,19 @@
+supplier_id,supplier_name,country,rating,contract_start_date,is_preferred
+S001,"Baral, Din And Bhalla",Unknown,4.3,2018-12-11,False
+S002,Varughese Group,Germany,2.5,2019-03-02,False
+S003,"Bahl, Mander And Chada",Vietnam,2.9,2022-03-12,False
+S004,"Sinha, Subramaniam And Garde",China,9.4,2019-07-08,True
+S005,Dhar-Gopal,Germany,4.5,2019-07-15,True
+S006,"Lalla, Ganesh And Oommen",Germany,7.5,2022-05-12,False
+S007,"Biswas, Karpe And Radhakrishnan",Unknown,4.2,2024-06-15,False
+S008,Babu And Sons,India,3.7,2020-09-12,False
+S009,"Saini, Doctor And Char",Germany,4.0,2021-08-29,False
+S010,"Barad, Wali And Thakur",Germany,4.9,2019-03-30,False
+S011,Subramaniam Ltd,Vietnam,3.3,2023-04-08,False
+S012,"Zacharia, Agarwal And Sankar",Vietnam,3.0,2018-11-30,False
+S013,Bassi-Wagle,China,1.6,2021-08-27,True
+S014,Raj-Palla,Unknown,2.5,2021-01-01,True
+S015,"Chaudhari, Sandal And Desai",India,4.1,2022-02-14,False
+S016,Chacko Llc,Germany,7.7,2019-10-13,False
+S017,"Rege, Kurian And Gulati",Vietnam,2.7,2022-03-10,True
+S018,"Amble, Virk And Dalal",Vietnam,5.0,2018-01-14,False
